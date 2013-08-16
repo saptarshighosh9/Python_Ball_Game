@@ -4,7 +4,9 @@ A very basic user-interactive game
 
 Build with Python 2.7
 
-Download the image files and necessary software required 
+Download the .zip file 
+
+All necessary installation information is provided.
 
 This is a basic version.Will soon upload the modified version.
 
